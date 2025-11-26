@@ -241,4 +241,4 @@ Bids are an essential feature for aftermarkets, especially for unique art or gam
 > This feature will likely introduce a significant amount of new logic to the protocol, and may warrant a partial or complete rewrite.
 
 ## Conclusion
-Cardano-Secondary-Market is a vital addition to the [p2p-DeFi protocol family](https://github.com/zhekson1/CSL-DeFi-Protocols). It enables the formation of a radically permissionless and highly composable NFT marketplace on the CSL, and works synergistically with other p2p-DeFi protocols. 
+Cardano-Secondary-Market is a vital addition to the [p2p-DeFi protocol family](https://github.com/zhekson1/CSL-DeFi-Protocols). It enables the formation of a radically permissionless and highly composable NFT marketplace on the CSL, and works synergistically 
